@@ -13,7 +13,7 @@ I'm an engineer who is passionate about software and infra.  I enjoy working wit
 ## 💻 My Stats
 
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <summary> :octocat: <b>My Github Stats</b>: </summary>
 <br>
 <p>
 
