@@ -3,7 +3,7 @@
 ## Hi 👋 I'm christine!
 I'm an engineer who is passionate about software and infra.  I enjoy working with
 
-- :cloud: <img src="emojis/aws.png" width="20" height="20" alt="aws"/> <img src="emojis/terraform.png" width="20" height="20" alt="terraform"/> cloud infra
+- :cloud: <img src="emojis/aws.png" width="20" height="20" alt="aws"/> <img src="emojis/googlecloud.png" width="20" height="20" alt="gcp"/> <img src="emojis/terraform.png" width="20" height="20" alt="terraform"/> cloud infra
 - <img src="emojis/kubernetes.png" width="20" height="20" alt="kubernetes"/> <img src="emojis/helm.png" width="20" height="20" alt="helm"/> <img src="emojis/docker.png" width="20" height="20" alt="docker"/> containers & orchestration
 - <img src="emojis/ansible.png" width="20" height="20" alt="ansible"/> <img src="emojis/linux.png" width="20" height="20" alt="linux"/> systems administration
 - <img src="emojis/buildkite.png" width="20" height="20" alt="buildkite"/> <img src="emojis/circleci.png" width="20" height="20" alt="circleci"/> <img src="emojis/jenkins.png" width="20" height="20" alt="jenkins"/> software delivery
