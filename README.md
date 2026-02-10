@@ -1,18 +1,12 @@
 <div align="center">
 
-![Terminal](terminal.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=30&duration=3000&pause=1000&color=F3827B&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Christine;Senior+Platform+Engineer+%40+NVIDIA)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
 I'm a **platform engineer** with roots in SRE and DevOps. I'm passionate about infrastructure that scales and platforms that developers actually enjoy using. I specialize in container orchestration, cloud architecture, and automation, with a focus on collaboration and integration between dev and platform teams.
-
-<div align="center">
-
-### 🌟 **"Engineering platforms for reliability at scale"** 🌟
-
-</div>
 
 ## 💼 Current Role
 
