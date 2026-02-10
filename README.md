@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=76B900&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I%27m+Christine+Savadel;Senior+Platform+Engineer+@+NVIDIA)](https://git.io/typing-svg)
+![Terminal](terminal.gif)
 
 </div>
 
 ## 🚀 About Me
 
-I'm a **Senior Platform Engineer at NVIDIA** passionate about building scalable cloud infrastructure and developer platforms. I specialize in container orchestration, cloud architecture, and automation solutions that power development teams.
+I'm a **platform engineer** with roots in SRE and DevOps. I'm passionate about infrastructure that scales and platforms that developers actually enjoy using. I specialize in container orchestration, cloud architecture, and automation, with a focus on collaboration and integration between dev and platform teams.
 
 <div align="center">
 
@@ -16,9 +16,19 @@ I'm a **Senior Platform Engineer at NVIDIA** passionate about building scalable 
 
 ## 💼 Current Role
 
-🏢 **Senior Platform Engineer @ NVIDIA**
-🎯 **Focus**: Creating robust, scalable cloud infrastructure solutions and development platforms. I prioritize collaboration, communication, and integration between development and platform teams.
-🌍 **Impact**: Supporting researchers and developers worldwide with scalable infrastructure and platforms
+🏢 **Senior Platform Engineer @ NVIDIA** (Product Security)
+
+🎯 **Focus**: Building secure, reliable infrastructure and internal platforms that enable teams to ship with confidence.
+
+🌍 **Impact**: Supporting researchers and developers worldwide with tooling and infrastructure that power innovation.
+
+## 👽 Past Lives
+
+🍊 SRE @ Etsy
+
+📘 Devops Eng @ 2U
+
+🏴‍☠️ Information Systems Tech @ US Navy
 
 ## 🛠️ Tech Stack & Expertise
 
@@ -54,24 +64,9 @@ I'm a **Senior Platform Engineer at NVIDIA** passionate about building scalable 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🤖 **AI Tools**
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white)
 
-</div>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrissav&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrissav&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrissav&theme=dracula" alt="chrissav" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chrissav&theme=dracula&row=1&column=7" alt="chrissav" />
 </div>
 
 ## 💬 Let's Connect!
